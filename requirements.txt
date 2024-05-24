@@ -1,0 +1,5 @@
+asyncio
+discord
+python-decouple
+mysql-connector-python
+twscrape
